@@ -1,0 +1,49 @@
+header {
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+  position: fixed;
+  margin-left: -10px;
+  margin-right: -10px;
+  width: 100%;
+
+  color: bisque;
+  background-color: black;
+  top: 0;
+  justify-content: space-around;
+}
+
+/*
+
+img {
+  display: flex;
+  align-items: flex-start;
+  
+}
+*/
+
+nav {
+  display: flex;
+
+  align-items: flex-start;
+
+  margin-left: 10px;
+}
+
+body {
+  margin-top: 200px;
+  background-color: white;
+}
+
+footer {
+  padding: 4px;
+  text-align: center;
+  background-color: black;
+  color: bisque;
+  bottom: 0;
+
+  /*
+  margin-top: 32px;
+   margin-bottom: 32px;
+ */
+}
